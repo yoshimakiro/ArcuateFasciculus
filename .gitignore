@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+.cache/
+
+# Virtual environment
+venv/
+ENV/
+.venv/
+
+# Build directories
+build/
+dist/
+docker_build/
+
+# Cache files
+.cache
+
+# Private files
+private/*
+
+# Packaging files
+*.egg-info/
+*.egg
+MANIFEST
+
+# Logs
+*.log

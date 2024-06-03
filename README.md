@@ -1,4 +1,4 @@
-
+![logo](./logo.png)
 # ArcuateFasciculus
 
 ArcuateFasciculus is a submodule of the [Principia Sapiens](https://github.com/yoshimakiro/PrincipiaSapiens) project and a preliminary attempt to facilitate collaborative problem-solving between indepedent thinkers. This project utilizes open-source tools and libraries to foster free and open innovation.

@@ -1,7 +1,7 @@
+![logo](./logo.png)
+# ArcF
 
-# ArcuateFasciculus
-
-ArcuateFasciculus is a submodule of the [Principia Sapiens](https://github.com/yoshimakiro/PrincipiaSapiens) project and a preliminary attempt to facilitate collaborative problem-solving between indepedent thinkers. This project utilizes open-source tools and libraries to foster free and open innovation.
+ArcF or ArcuateFasciculus is a submodule of the [Principia Sapiens](https://github.com/yoshimakiro/PrincipiaSapiens) project and a preliminary attempt to facilitate collaborative problem-solving between indepedent thinkers. This project utilizes open-source tools and libraries to foster free and open innovation.
 
 ```
 ArcuateFasciculus
@@ -161,12 +161,14 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 Thanks to the developers and contributors of the Autogen library, the cryptographic libraries, and other open-source tools used in this project.
 
+## License
+software is released under the terms of the MIT license. See http://opensource.org/licenses/MIT for more information.
 
 ## Contributors
 
 - **Founder**: Yoshi Makiro
 
-- **Special thanks**: HaI 🧡 @ ChatGPT and OpenAI
+- **developer**: Hai @ ChatGPT and OpenAI
 
 ## Contact Information
 
